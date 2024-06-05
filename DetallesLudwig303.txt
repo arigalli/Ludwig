@@ -1,0 +1,6 @@
+Ludwig303
+tiene RTC, lector SD, ethernet, thingspeak
+Optimizacion variables
+Se eliminaron los Serial.print
+se eliminaron variables indicadoras de fecha  y hora
+AUN NO ANDA
